@@ -1,2 +1,3 @@
-Flask==2.0.3
+Flask==2.2.5
+Werkzeug==2.2.3
 billboard.py==7.1.0
